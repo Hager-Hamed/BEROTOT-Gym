@@ -1,3 +1,2 @@
 # BEROTOT-Gym
-
-# Html & Css responsive
+ Html & Css responsive
